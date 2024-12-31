@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "/src/assets/prisoners.jpg",
+            src: "/assets/prisoners.jpg",
             alt: "Prisoners Movie Poster"
         },
         title: "Prisoners",
@@ -14,7 +14,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "/src/assets/sixthsense.jpg",
+            src: "/assets/sixthsense.jpg",
             alt: "The Sixth Sense Movie Poster"
         },
         title: "The Sixth Sense",
@@ -26,7 +26,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "/src/assets/inception.jpg",
+            src: "/assets/inception.jpg",
             alt: "Inception Movie Poster"
         },
         title: "Inception",
@@ -38,7 +38,7 @@ export default [
     {
         id: 4,
         img: {
-            src: "/src/assets/7.jpg",
+            src: "/assets/7.jpg",
             alt: "Se7en Movie Poster"
         },
         title: "Se7en",
@@ -50,7 +50,7 @@ export default [
     {
         id: 5,
         img: {
-            src: "/src/assets/shutter.jpg",
+            src: "/assets/shutter.jpg",
             alt: "Shutter Island Movie Poster"
         },
         title: "Shutter Island",
